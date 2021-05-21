@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifest-pastedown.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[LJ -Manifest Pastedown Lifting]",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
