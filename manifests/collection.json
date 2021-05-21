@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : null,
-    "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifest-test-warping.json",
-    "label" : null
-  } ]
+  "items" : [ ]
 }
