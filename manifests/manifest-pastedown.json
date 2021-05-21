@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifest-pastedown.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://04e57bfa-80e9-45d7-8ca9-d8615148bace",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://737510d2-616c-4465-916e-ac823fdd7520",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 400,
+      "width" : 267,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ee7dcb35-4447-4403-8be8-0a0acf9c313c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliolej.github.io/LJ-IIIF-Test/images/anc_vg_bc_warping/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliolej.github.io/LJ-IIIF-Test/images/anc_vg_bc_warping",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 400,
+          "width" : 267
+        },
+        "on" : "http://737510d2-616c-4465-916e-ac823fdd7520"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5184bcc2-5028-4c62-aa28-2d6ae9d4da7d",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 400,
+      "width" : 267,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9349f346-d69a-4a35-97d5-3971fb004fc3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliolej.github.io/LJ-IIIF-Test/images/anc_vg_bc_pastedown_lifting/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliolej.github.io/LJ-IIIF-Test/images/anc_vg_bc_pastedown_lifting",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 400,
+          "width" : 267
+        },
+        "on" : "http://5184bcc2-5028-4c62-aa28-2d6ae9d4da7d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
