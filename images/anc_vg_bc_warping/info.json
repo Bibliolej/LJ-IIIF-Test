@@ -24,7 +24,7 @@
     "width" : 267,
     "height" : 400
   } ],
-  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "profile": "http://iiif.io/api/image/2/level0.json",
   "width" : 267,
   "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/images/anc_vg_bc_warping",
   "@context" : "http://iiif.io/api/image/2/context.json",
