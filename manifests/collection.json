@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifest.json",
     "label" : "LJ Manifest for Binding Condition: Warping"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifest-pastedown.json",
-    "label" : "[Click to edit label]"
   } ]
 }
