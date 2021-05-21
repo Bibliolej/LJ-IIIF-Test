@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "LJ Manifest for Binding Condition: Warping",
+  "label" : "Binding Condition: Warping Manifest",
   "metadata" : [ ],
-  "description" : [ {
+  "description": [ {
     "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution": "PRTD Division-Library of Congress",
   "sequences" : [ {
     "@id" : "http://04e57bfa-80e9-45d7-8ca9-d8615148bace",
     "@type" : "sc:Sequence",
