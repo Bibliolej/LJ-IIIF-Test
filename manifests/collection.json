@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifest.json",
     "label" : "LJ Manifest for Binding Condition: Warping"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifestpastedown.json",
+    "label" : "Pastedown Lifting Manifest"
   } ]
 }
