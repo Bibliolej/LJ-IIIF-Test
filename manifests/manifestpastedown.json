@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Bibliolej.github.io/LJ-IIIF-Test/manifests/manifestpastedown.json",
   "@type" : "sc:Manifest",
-  "label" : "Pastedown Lifting Manifest",
+  "label": "Pastedown Lifting Manifest",
   "metadata" : [ ],
-  "description" : [ {
+  "description": [ {
     "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "PRTD Division -Library of Congress",
+  "attribution": "PRTD Division -Library of Congress",
   "sequences" : [ {
     "@id" : "http://25d55d00-c077-4024-9b20-e3e60548a748",
     "@type" : "sc:Sequence",
